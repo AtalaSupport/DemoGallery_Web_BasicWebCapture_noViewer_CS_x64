@@ -125,8 +125,8 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="WebCapture\Kofax.WebCapture.Installer.msi" />
-    <Content Include="WebCapture\Kofax.WebCapture.macOS.pkg" />
+    <Content Include="WebCapture\Tungsten.WebCapture.Installer.msi" />
+    <Content Include="WebCapture\Tungsten.WebCapture.macOS.pkg" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
