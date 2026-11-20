@@ -49,33 +49,33 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Atalasoft.dotImage, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.dotImage">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
     </Reference>
-    <Reference Include="Atalasoft.dotImage.Lib, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.dotImage.Lib">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
-    <Reference Include="Atalasoft.dotImage.Pdf, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.dotImage.Pdf">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
     </Reference>
-    <Reference Include="Atalasoft.dotImage.PdfDoc.Bridge, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.dotImage.PdfDoc.Bridge">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="Atalasoft.dotImage.PdfReader, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.dotImage.PdfReader">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.WebControls">
       <Name>Atalasoft.dotImage.WebControls</Name>
       <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.2\bin\4.5.2\x64\Atalasoft.dotImage.WebControls.dll</HintPath>
     </Reference>
-    <Reference Include="Atalasoft.PdfDoc, Version=11.4.0.434, Culture=neutral, PublicKeyToken=2b02b46f7326f73b, processorArchitecture=AMD64">
+    <Reference Include="Atalasoft.PdfDoc">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Atalasoft\DotImage 11.4\bin\4.5.2\x64\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <Name>Atalasoft.Shared</Name>
